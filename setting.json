@@ -1,0 +1,70 @@
+{
+    "yaml.schemas": {
+        "file:///home/bks/.vscode-server/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "remote.SSH.remotePlatform": {
+        "10.203.194.202": "linux",
+        "PJLAB2": "linux",
+        "A6000": "linux",
+        "fxl": "linux",
+        "8A6000": "linux",
+        "ssh.cn-zhongwei-1.paracloud.com": "linux",
+        "PJLAB3": "linux"
+    },
+    "git.ignoreLegacyWarning": true,
+    "python.autoComplete.extraPaths": [
+
+    ],
+    "codeium.enableSearch": true,
+    "python.analysis.extraPaths": [],
+    "[python]": {
+
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "files.associations": {
+        "*.py": "python"
+    },
+    "git.terminalAuthentication": false,
+    "Codegeex.Privacy": true,
+    "Codegeex.License": "",  
+    
+
+    "background.fullscreen": {
+    
+        "useFront": true,
+        "style": {
+            "pointer-events": "none",
+            "position": "absolute",
+            "z-index": "99999",
+            "background-position": "100% 100%",
+            "background-size": "auto 100%",
+            "opacity": 0.1,
+            "background-attachment": "fixed",
+        },
+        "images": ["file:///C:/Users/Dell/Pictures/code01.png"],
+        "interval": 0,
+        "random": false
+    },
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "background.editor": {
+    
+        "useFront": true,
+        "style": {
+            "background-position": "100% 100%",
+            "background-size": "auto",
+            "opacity": 0.6
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": [],
+        "interval": 0,
+        "random": false
+    },
+
+    
+
+      
+}
